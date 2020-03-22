@@ -18,7 +18,7 @@
 
 	<properties>
 		<java.version>12</java.version>
-		<nimbus-jose.version>7.0</nimbus-jose.version>
+		<nimbus-jose.version>7.9</nimbus-jose.version>
 	</properties>
 
 	<dependencies>
